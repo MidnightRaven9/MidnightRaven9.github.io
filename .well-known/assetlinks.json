@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bismarckbigboy.app",
+        "sha256_cert_fingerprints": ["79:F0:7D:AA:45:4D:8D:C7:2E:DC:8B:F4:72:78:7B:D9:AE:1B:86:2B:3E:60:90:68:E4:E4:3B:37:3F:54:78:47"]
+      }
+    }]
